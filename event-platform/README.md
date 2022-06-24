@@ -1,5 +1,7 @@
 # Projeto: Plataforma de evento como o IgniteLab
 
+### Materiais:
+- Figma: https://www.figma.com/file/Llod05Tv5EFWJ8K4KagZsO/Plataforma-de-evento---Ignite-Lab-(Community)
 ### Tecnologias usadas:
 - React
 - GraphQL
